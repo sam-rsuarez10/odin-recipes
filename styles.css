@@ -1,0 +1,35 @@
+* {
+    font-family: 'Verdana', sans-serif;
+}
+
+body {
+    background-color: lightgray;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+ul {
+    list-style: none;
+}
+
+.btn__link {
+    background-color: lightblue;
+}
+
+.btn__link:hover {
+    font-size: 1.15rem;
+    transition: 500ms;
+}
+
+.recipe__item {
+    margin: 1rem 0.75rem;
+    display: inline;
+}
+
+.food__image {
+    width: 25rem;
+    height: auto;
+}
